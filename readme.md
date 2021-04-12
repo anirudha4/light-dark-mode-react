@@ -7,7 +7,8 @@ https://codesandbox.io/live/0znhy6q
 
 ## How to run the app
 
-
+* cd app_name
+  
 ```javascript
    npm install
    npm start
